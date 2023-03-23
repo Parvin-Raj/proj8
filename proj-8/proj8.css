@@ -1,0 +1,19 @@
+body{
+    background-color:cadetblue;
+    padding: 20px;
+}
+.button{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border: none;
+
+}
+.button:hover{
+    background-color: white;
+    color: black;
+}
+
+p{
+    padding: 10px;
+}
